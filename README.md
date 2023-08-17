@@ -23,6 +23,6 @@ Selecione uma imagem para ser utilizada no programa, já vem uma pasta com algum
 O programa trabalha em conjunto com o terminal então é necessário utilizá-lo para ler e selecionar as etapas do mesmo.
 
 Fontes:
-https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
-https://stackoverflow.com/questions/67409569/display-an-image-with-pixel-values-shown-numerically
-https://setosa.io/ev/image-kernels/
+- https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
+- https://stackoverflow.com/questions/67409569/display-an-image-with-pixel-values-shown-numerically
+- https://setosa.io/ev/image-kernels/
